@@ -1,0 +1,205 @@
+@import url("https://fonts.googleapis.come/css?family=Epilogue:700");
+
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.macbook-air-1-2 {
+    align-items: flex-start;
+    background-color: white;
+    border: 1px none;
+    display: flex;
+    width: 3280px;
+}
+
+.overlap-group {
+    background: linear-gradient(180deg, rgb(44.13,91.44,39.83) 0%, rgba(11.84, 44.69, 8.85, 0) 93.6%);;
+    height: 832px;
+    position: relative;
+    width: 3390px;
+}
+
+.vector {
+    cursor: pointer;
+    height: 100px;
+    left: 815px;
+    position: absolute;
+    top: 402px;
+    width: 100px;
+}
+
+.third {
+    cursor: pointer;
+    height: 100px;
+    left: 930px;
+    position: absolute;
+    top: 402px;
+    width: 100px;
+}
+
+.sobre {
+    left: 894px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 177px;
+    width: 50px;
+}
+
+.home-plants {
+    color: black;
+    font-family: var(--font-family-epilogue);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    left: 214px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 177px;
+    width: 107px;
+}
+
+.planta-1 {
+    height: 537px;
+    left: 349px;
+    object-fit: cover;
+    position: absolute;
+    top: 145px;
+    width: 246px;
+}
+
+.lino {
+    height: 100px;
+    left: 686px;
+    object-fit: cover;
+    position: absolute;
+    top: 402px;
+    width: 105px;
+}
+
+.descontos {
+    left: 971px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 177px;
+    width: 87px;
+}
+
+.twitter-1 {
+    height: 18px;
+    left: 296px;
+    object-fit: cover;
+    position: absolute;
+    top: 633px;
+    width: 20px;
+}
+
+.rectangle-1 {
+    background-color: white;
+    height: 537px;
+    left: 190px;
+    position: absolute;
+    top: 145px;
+    width: 888px;
+}
+
+.facebook-1 {
+    height: 23px;
+    left: 214px;
+    object-fit: cover;
+    position: absolute;
+    top: 631px;
+    width: 10px;
+}
+
+.para-sua-casa {
+    left: 157px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 388px;
+    transform: rotate(-90.02deg);
+    width: 222px;
+}
+
+.instagram-1 {
+    height: 23px;
+    left: 252px;
+    object-fit: cover;
+    position: absolute;
+    top: 631px;
+    width: 20px;
+}
+
+.texto {
+    left: 689px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 440px;
+    width: 120px;
+    background-color: #43693F;
+}
+
+.title {
+    left: 689px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 240px;
+    width: 350px;
+    display: flex;
+}
+
+.title > img {
+    margin-left: 130px;
+}
+
+.para {
+    left: 689px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 340px;
+    width: 300px;
+    display: flex;
+}
+
+.images {
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 80px;
+    width: 350px;
+    display: flex;
+}
+
+.place {
+    left: 826px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 177px;
+    width: 41px;
+}
+
+.left-and-right-arrow
+{
+    left: 710px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 600px;
+    width: 300px;
+    display: flex;
+    gap: 10px;
+}
